@@ -1,3 +1,4 @@
+import time
 ### MAD LIBS ###
 ### Source: https://www.kingarthurstoys.com/media/archive/catalog/item-21151_2_large.jpg
 
@@ -64,3 +65,5 @@ print("The last time I went to a sleepover, a/an " + adjective1 +
       " covering the room in layer of " + adjective3 + " feathers. The fighting "
       " stopped when we all broke out in " + adjective4 + " laughter. The fun ended "
       " when we realized we had to clean up the " + adjective5 + " mess!")
+
+time.sleep(100)
