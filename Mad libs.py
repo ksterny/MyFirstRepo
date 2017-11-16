@@ -1,6 +1,6 @@
 ### MAD LIBS ###
 ### Source: https://www.kingarthurstoys.com/media/archive/catalog/item-21151_2_large.jpg
-importtime
+import time
 
 print("Write a noun")
 noun1 = input()
